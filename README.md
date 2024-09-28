@@ -5,6 +5,7 @@
 Welcome to the GB-Punks Open Framework, where creativity, community, and freedom thrive. GB-Punks is a fork from Bario Punks. All art layers and code behind GB-Punks are now open-source, available for you to build on, remix, and innovate. Feel free to explore, create, and commercialize—just follow these basic guidelines to remain part of the Bario ecosystem!
 
 GB-PUNKS is a remix of BarioPunks fully saved on-chain on base. The collection was created as a Speedrun challenge in the timeframe of 12 hours. The colors are inspired by Gameboy Classic. Traits are inspired by CryptoPunks, Nouns and some new designs.
+The editon of 1989 is a reference to the release yeat of the Gameboy Classic.
 
 ## License
 This project is licensed under the MIT License. Here’s what it means for you:
