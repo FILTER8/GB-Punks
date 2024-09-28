@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Bario Punks
+# GB-Punks
 
-Welcome to the Bario Punks Open Framework, where creativity, community, and freedom thrive. All art layers and code behind Bario Punks are now open-source, available for you to build on, remix, and innovate. Feel free to explore, create, and commercialize—just follow these basic guidelines to remain part of the Bario ecosystem!
+Welcome to the GB-Punks Open Framework, where creativity, community, and freedom thrive. GB-Punks is a fork from Bario Punks. All art layers and code behind GB-Punks are now open-source, available for you to build on, remix, and innovate. Feel free to explore, create, and commercialize—just follow these basic guidelines to remain part of the Bario ecosystem!
 
 ## License
 This project is licensed under the MIT License. Here’s what it means for you:
@@ -30,6 +30,12 @@ The Bario Punks open-source framework is all about pushing the boundaries of cre
 
 ## Important Links
 
+GB-PUNKS
+* Mint Page - https://www.indelible.xyz/mint/base/0x88ab7d84ac8ee4f0e8c81f4e72cd336fd33914f7
+* GB-Punks NFT Collection - https://opensea.io/collection/gb-punks-1
+* Follow Filter8 on Twitter - https://x.com/filter8_tez
+
+BARIO
 * Bario Entertainment System Website - https://baes.so
 * $Bario Token Website - https://bario.buzz
 * Bario Community - https://t.me/barioportal
@@ -37,4 +43,4 @@ The Bario Punks open-source framework is all about pushing the boundaries of cre
 * Bario Punks NFT Collection - https://opensea.io/collection/bario-punks
 * Bario DMG-01 NFT Collection - https://opensea.io/collection/baes-bario-dmg-01
 
-![title](https://i.seadn.io/s/primary-drops/0xdc1c20df3f8ededf1466399c5d5d17d864bd3f0f/33348322:about:media:d5ecebab-5743-4e25-979a-febdac7a2eca.png?auto=format&dpr=1&w=1200)
+![GB-PUNKS_collection](https://github.com/user-attachments/assets/b26dbc93-6d5c-45e5-8a09-b14812a798b6)
