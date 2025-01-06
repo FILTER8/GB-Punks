@@ -34,9 +34,8 @@ The Bario Punks open-source framework is all about pushing the boundaries of cre
 ## Important Links
 
 GB-PUNKS
-* Mint Page - https://www.indelible.xyz/mint/base/0x88ab7d84ac8ee4f0e8c81f4e72cd336fd33914f7
 * GB-Punks NFT Collection - https://opensea.io/collection/gb-punks-1
-* Play GB-Punks Game - https://filter8.itch.io/gb-punks
+* Play GB-Punks Game on BAES https://app.baes.so
 * Follow Filter8 on Twitter - https://x.com/filter8_tez
 * filter8 homepage: https://filter8.xyz
 
